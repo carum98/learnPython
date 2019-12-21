@@ -19,3 +19,10 @@ print(cadena)
 
 cadena = f"La Universidad {academia} tiene {alumnos} alumnos"
 print(cadena)
+
+print("Ingrese su nombre")
+nombre = input()
+print(f"Su nombre es {nombre}")
+
+nombre = input("Ingrese su nombre")
+print(f"Su nombre es {nombre}")
